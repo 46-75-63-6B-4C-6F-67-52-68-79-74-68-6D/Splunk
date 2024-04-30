@@ -20,7 +20,7 @@ Under Settings > Data Models > Data Model Name - *(In this example, I will be us
 * Take note of the Dataset(s) - In this case we see 'Proxy' & 'Storage'
 * Take note of the Constraint - This is where you can find the CIM macro name which is 'cim_Web_indexes' and then also the tag name which we will use later which is 'web'.
 
-![Alt text](https://github.com/gagechil04/Splunk_Admin/blob/main/Resources/web_datamodel.jpeg "Splunk Web Data Model")
+![Alt text](https://github.com/46-75-63-6B-4C-6F-67-52-68-79-74-68-6D/Splunk/blob/main/Resources/web_datamodel.jpeg "Splunk Web Data Model")
 
 
 <br />
@@ -35,7 +35,7 @@ Under Settings > Event types > New Event Type<br />
 * Make sure 'Permissions' are set to 'Global'
 <br />*In the below example, we are using the "web" data model which has two data sets 'web' & 'proxy' thats why two tags are being used.*
 
-![Alt text](https://github.com/gagechil04/Splunk_Admin/blob/main/Resources/datamodel_eventtype2.jpeg "Splunk Event Type")
+![Alt text](https://github.com/Splunk_Admin/blob/main/Resources/datamodel_eventtype2.jpeg "Splunk Event Type")
 
 
 <br />
@@ -49,7 +49,7 @@ Under Settings > Tags > All unique tag objects > New Tag<br />
 * Make sure 'Permissions' are set to 'Global'
 <br />*In the below example, we are using the "web" data model which has two data sets 'web' & 'proxy' thats why we see two separate entries for each tag.*
 
-![Alt text](https://github.com/gagechil04/Splunk_Admin/blob/main/Resources/datamodel_tag.jpeg "Splunk Tag")
+![Alt text](https://github.com/Splunk_Admin/blob/main/Resources/datamodel_tag.jpeg "Splunk Tag")
 
 
 <br />
@@ -60,7 +60,7 @@ Under Settings > Advanced Search > Search Macros > Filter on the macro name we l
 * Definition - Define index/sourcetypes in SPL<br />
 <br />*In the below example you will see multiple indexes defined, this is just to show what you might expect to see.*
 
-![Alt text](https://github.com/gagechil04/Splunk_Admin/blob/main/Resources/search_macro.jpeg "CIM Search Macro")
+![Alt text](https://github.com/Splunk_Admin/blob/main/Resources/search_macro.jpeg "CIM Search Macro")
 
 
 <br />
@@ -86,7 +86,7 @@ Run the below search to validate fields names are parsing/translating correctly 
 | datamodel Web search | search sourcetype=pan:threat
 ````
 
-![Alt text](https://github.com/gagechil04/Splunk_Admin/blob/main/Resources/datamodel_field.jpeg "Data Model Field")
+![Alt text](https://github.com/Splunk_Admin/blob/main/Resources/datamodel_field.jpeg "Data Model Field")
 
 <br />
 
