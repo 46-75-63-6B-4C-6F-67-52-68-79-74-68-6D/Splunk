@@ -60,7 +60,7 @@ Under Settings > Advanced Search > Search Macros > Filter on the macro name we l
 * Definition - Define index/sourcetypes in SPL<br />
 <br />*In the below example you will see multiple indexes defined, this is just to show what you might expect to see.*
 
-![Alt text](https://github.com/Splunk_Admin/blob/main/Resources/search_macro.jpeg "CIM Search Macro")
+![Alt text](https://github.com/46-75-63-6B-4C-6F-67-52-68-79-74-68-6D/Splunk/blob/main/Resources/search_macro.jpeg "CIM Search Macro")
 
 
 <br />
