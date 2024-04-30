@@ -1,4 +1,4 @@
-# Reset Splunk GUI Password KB
+# Reset Splunk GUI Password
 
 <br />
 
