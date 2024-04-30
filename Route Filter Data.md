@@ -12,12 +12,12 @@ Example props & transforms for routing a specific subset of data to the nullQueu
 ````
 -Props.conf
 [sourcetype-name]
-TRANSFORMS-null= fgt_rqfilter
+TRANSFORMS-null= fgt_filter
 ````
 
 ````
 -Transforms
-[fgt_rqfilter]
+[fgt_filter]
 REGEX = \ssubtype\=(?<fgtdrop>\"ssl|objcfg|\"voip|fgd|\"anomaly|system|logfile|dm|dvm|scply|malware|fazsys|logging|report|logdb)
 DEST_KEY = queue
 FORMAT = nullQueue
@@ -38,7 +38,7 @@ TRANSFORMS-null= fgt_route1
 -Transforms
 [fgt_route1]
 DEST_KEY = _MetaData:Index
-REGEX = initiatedBy\"\: \{.*?\"user\"\: \{.*? \"userPrincipalName\"\: .*?@(?i:agela.com|agela.com.cn|bonnaagela.com|phenomenex.com|phenova.com)\",
+REGEX = initiatedBy\"\: \{.*?\"user\"\: \{.*? \"userPrincipalName\"\: .*?@(?i:user.com|user1.com.cn|user1.com|company.com|company.com)\",
 FORMAT = index_name
 ````
 <br /><br />
