@@ -35,7 +35,7 @@ Under Settings > Event types > New Event Type<br />
 * Make sure 'Permissions' are set to 'Global'
 <br />*In the below example, we are using the "web" data model which has two data sets 'web' & 'proxy' thats why two tags are being used.*
 
-![Alt text](https://github.com/Splunk_Admin/blob/main/Resources/datamodel_eventtype2.jpeg "Splunk Event Type")
+![Alt text](https://github.com/46-75-63-6B-4C-6F-67-52-68-79-74-68-6D/Splunk/blob/main/Resources/datamodel_eventtype2.jpeg "Splunk Event Type")
 
 
 <br />
