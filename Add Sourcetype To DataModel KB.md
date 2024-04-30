@@ -49,7 +49,7 @@ Under Settings > Tags > All unique tag objects > New Tag<br />
 * Make sure 'Permissions' are set to 'Global'
 <br />*In the below example, we are using the "web" data model which has two data sets 'web' & 'proxy' thats why we see two separate entries for each tag.*
 
-![Alt text](https://github.com/Splunk_Admin/blob/main/Resources/datamodel_tag.jpeg "Splunk Tag")
+![Alt text](https://github.com/46-75-63-6B-4C-6F-67-52-68-79-74-68-6D/Splunk/blob/main/Resources/datamodel_tag.jpeg "Splunk Tag")
 
 
 <br />
