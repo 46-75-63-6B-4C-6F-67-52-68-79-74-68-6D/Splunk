@@ -86,7 +86,7 @@ Run the below search to validate fields names are parsing/translating correctly 
 | datamodel Web search | search sourcetype=pan:threat
 ````
 
-![Alt text](https://github.com/Splunk_Admin/blob/main/Resources/datamodel_field.jpeg "Data Model Field")
+![Alt text](https://github.com/46-75-63-6B-4C-6F-67-52-68-79-74-68-6D/Splunk/blob/main/Resources/datamodel_field.jpeg "Data Model Field")
 
 <br />
 
