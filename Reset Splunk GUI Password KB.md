@@ -31,7 +31,7 @@ $SPLUNK_HOME/bin/splunk stop
 
 <br />
 
-![Alt text](https://github.com/gagechil04/Splunk_Admin/blob/main/Resources/splunk_password_reset.png "Splunk Password Reset CLI")
+![Alt text](https://github.com/46-75-63-6B-4C-6F-67-52-68-79-74-68-6D/Splunk/blob/main/Resources/splunk_password_reset.png "Splunk Password Reset CLI")
 *Example output of the CLI command mentioned above.*
 
 <br /><br /><br />
